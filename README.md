@@ -14,5 +14,10 @@ Profesor: Bueno Vazquez Francisco Javier.
 Nombre:Garduño Chavez Ernesto Atzin
 
 
-
+fun main() {
+    println("Programacion Web")
+    println("Practica 1")
+    println("Garduño Chavez Ernesto Atzin")
+    println("Hello UPIICSA!!!")
+}
 
