@@ -1,7 +1,7 @@
 # Practica-1-GardunoChavez
 Practica 1 de la materia Programacion Movil realizada por Kottlin
 
-Instituto Politecnico Nacional 
+ Instituto Politecnico Nacional  
 
 Unidad Profesional Interdisciplinaria de Ingeniería y Ciencias Sociales y Administrativas
 
@@ -12,4 +12,7 @@ Secuenca:6NM61
 Profesor: Bueno Vazquez Francisco Javier.
 
 Nombre:Garduño Chavez Ernesto Atzin
+
+
+
 
